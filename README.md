@@ -102,23 +102,23 @@ microblog_backend2的Canister ID：ux4su-hyaaa-aaaal-abeca-cai
 
 首先在A中使用post函数发布一个消息
 
-![image-20220918154743156](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220918154743156.png)
+![](./images/1.jpg)
 
 随后调用A的posts函数查看已发布的所有消息
 
-![image-20220918154839755](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220918154839755.png)
+![](./images/2.jpg)
 
 使用B的follow函数关注A
 
-![image-20220918154954407](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220918154954407.png)
+![](./images/3.jpg)
 
 使用B的follows函数列出所有关注的对象
 
-![image-20220918155039940](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220918155039940.png)
+![](./images/4.jpg)
 
 使用B的timeline函数列出关注对象发的信息
 
-![image-20220918155138362](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20220918155138362.png)
+![](./images/5.jpg)
 
 ## 思考题
 
